@@ -1,0 +1,9 @@
+https://www.cyberforum.ru,
+https://pikabu.ru,
+https://github.com,
+https://stackoverflow.com,
+https://habr.com/ru/all/,
+https://dtf.ru,
+https://learn.microsoft.com/ru-ru/,
+https://metanit.com,
+https://theuselessweb.com
